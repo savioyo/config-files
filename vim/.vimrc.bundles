@@ -1,0 +1,11 @@
+filetype off
+set rtp+=~/.vim/bundle/vundle/
+call vundle#rc()
+
+" Bundle 'vim-airline/vim-airline'
+" Bundle 'vim-airline/vim-airline-themes'
+
+Bundle "Lokaltog/vim-powerline"
+
+Bundle "altercation/vim-colors-solarized"
+Bundle "tomasr/molokai"
